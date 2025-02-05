@@ -21,3 +21,7 @@ p    {color: red;}
     padding: 10px;
    /* position: absolute;*/
 }
+*{
+    font-style: italic;
+    font-display: var(green)
+}
